@@ -22,7 +22,7 @@ Loop through each MSSP customer and do the following:
 1. Verify input SHA-256 is contanined in SCD list named "MSSP_SOC_BLOCK"
 1. Creates table for Successful and Failed updates for each customer.
 
-![MSSP_SOC_BLOCK_Workflow](https://wwwin-github.cisco.com/dallong/SXO_hackathon_MSSP_SOC/blob/master/Screen%20Shot%202021-04-19%20at%202.07.33%20PM.png)
+![MSSP_SOC_BLOCK_Workflow](/SXO_Run.png)
 
 
 
