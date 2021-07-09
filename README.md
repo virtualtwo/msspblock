@@ -22,7 +22,7 @@ Loop through each MSSP customer and do the following:
 1. Verify input SHA-256 is contanined in SCD list named "MSSP_SOC_BLOCK"
 1. Creates table for Successful and Failed updates for each customer.
 
-![MSSP_SOC_BLOCK_Workflow](/Screen Shot 2021-04-19 at 2.07.33 PM.png)
+![MSSP_SOC_BLOCK_Workflow](/MSSP_block_diagram.png)
 
 
 ## Required Global Variable
