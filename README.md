@@ -25,7 +25,6 @@ Loop through each MSSP customer and do the following:
 ![MSSP_SOC_BLOCK_Workflow](/Screen Shot 2021-04-19 at 2.07.33 PM.png)
 
 
-
 ## Required Global Variable
 Create Global Variable MSSP customer credentials using Copy-ADD-AMP-MSSP-CREDS.json to aggregate MSSP customer API account keys used in this workflow.
 
