@@ -65,3 +65,8 @@ Import both workflows.
 ## Notes
 * In this workflow the named SCD List "MSSP_SOC_BLOCK" could be any name for the SCD, but it must be consistent across all customers to succeed.
 
+## Learning Labs
+https://developer.cisco.com/learning/modules/SecureX-orchestration
+https://github.com/pfiano/sxo-Talos-Roundup-Investigation/blob/main/use_case.md 
+
+
